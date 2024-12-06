@@ -8,7 +8,7 @@
 Using modified icons from [Visual Studio Image Library](https://msdn.microsoft.com/en-us/library/ms246582.aspx), adapted to match VS2022. The icons are compiled to dark, light, and high contrast themes.
 
 ## Icon Sample
-![Preview](images/image-comparison.png)
+![Preview](images/comparison.png)
 
 ## Build
 
