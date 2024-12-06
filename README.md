@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="images/logo.svg" alt="Logo" width="256" height="256">
+  <img src="images/logo.png" alt="Logo" width="256" height="256">
   <h3 align="center">VS2022 Icons</h3>
   <p align="center">
 </div>
