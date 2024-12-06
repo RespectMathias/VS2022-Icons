@@ -1,0 +1,13 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <ns0:defs>
+    <ns0:style>.canvas{fill: none; opacity: 0;}.light-defaultgrey{fill: #212121; opacity: 1;}.light-blue{fill: #005dba; opacity: 1;}</ns0:style>
+  </ns0:defs>
+  <ns0:title>IconLightCursorFile</ns0:title>
+  <ns0:g id="canvas">
+    <ns0:path d="M0,0H16V16H0Z" style="fill:none;opacity:0;" />
+  </ns0:g>
+  <ns0:g id="level-1">
+    <ns0:path d="M2,15H1V1.5L1.5,1H15V2H2Z" style="fill:#212121;opacity:1;" />
+    <ns0:path d="M9.09,10.034l1.38,3.8-.94.342L8.123,10.3,6,12V3l6,7.2Z" style="fill:#005dba;opacity:1;" />
+  </ns0:g>
+</ns0:svg>

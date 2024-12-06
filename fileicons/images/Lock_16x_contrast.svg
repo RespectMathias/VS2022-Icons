@@ -1,0 +1,14 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <ns0:defs>
+    <ns0:style>.canvas{fill: none; opacity: 0;}.light-defaultgrey-10{fill: #212121; opacity: 0.1;}.light-defaultgrey{fill: #212121; opacity: 1;}</ns0:style>
+  </ns0:defs>
+  <ns0:title>IconLightLock</ns0:title>
+  <ns0:g id="canvas" style="fill:none;opacity:0;">
+    <ns0:path d="M16,16H0V0H16Z" style="fill:none;opacity:0;" />
+  </ns0:g>
+  <ns0:g id="level-1">
+    <ns0:path d="M2.5,14.5h10v-8H2.5Z" style="fill:#212121;opacity:0.1;" />
+    <ns0:path d="M8,12H7V9H8Z" style="fill:#212121;opacity:1;" />
+    <ns0:path d="M12.5,6H11V4.536a3.5,3.5,0,0,0-7,0V6H2.5L2,6.5v8l.5.5h10l.5-.5v-8ZM5,4.536a2.5,2.5,0,0,1,5,0V6H5ZM12,14H3V7h9Z" style="fill:#212121;opacity:1;" />
+  </ns0:g>
+</ns0:svg>

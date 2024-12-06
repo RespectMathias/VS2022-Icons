@@ -1,0 +1,18 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <ns0:defs>
+    <ns0:style>.canvas{fill: none; opacity: 0;}.light-defaultgrey{fill: #212121; opacity: 1;}.light-defaultgrey-10{fill: #212121; opacity: 0.1;}.cls-1{opacity:0.75;}</ns0:style>
+  </ns0:defs>
+  <ns0:title>IconLightReference</ns0:title>
+  <ns0:g id="canvas" style="fill:none;opacity:0;">
+    <ns0:path d="M16,16H0V0H16Z" style="fill:none;opacity:0;" />
+  </ns0:g>
+  <ns0:g id="level-1">
+    <ns0:g style="opacity:0.75;">
+      <ns0:path d="M9,7V8H5V7Z" style="fill:#212121;opacity:1;" />
+    </ns0:g>
+    <ns0:path d="M4.5,5.5v4H.5v-4Z" style="fill:#212121;opacity:0.1;" />
+    <ns0:path d="M4.5,10H.5L0,9.5v-4L.5,5h4l.5.5v4ZM1,9H4V6H1Z" style="fill:#212121;opacity:1;" />
+    <ns0:path d="M15.5,4.5v6h-6v-6Z" style="fill:#212121;opacity:0.1;" />
+    <ns0:path d="M15.5,11h-6L9,10.5v-6L9.5,4h6l.5.5v6ZM10,10h5V5H10Z" style="fill:#212121;opacity:1;" />
+  </ns0:g>
+</ns0:svg>

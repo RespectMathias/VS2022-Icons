@@ -1,0 +1,11 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<ns0:g id="canvas">
+	<ns0:path style="opacity:0;fill:#F6F6F6;" d="M16,16H0V0h16V16z" />
+</ns0:g>
+<ns0:g id="outline">
+	<ns0:path style="fill:#EFEEF0;" d="M5.969,10.828l-2.831,2.358L0,11.618V4.382l3.138-1.569l2.831,2.359l5.789-5.157L16,1.279v13.441   l-4.242,1.264L5.969,10.828z" />
+</ns0:g>
+<ns0:g id="iconBg">
+	<ns0:path style="fill:#68217A;" d="M12,1L6,6.5L3,4L1,5v6l2,1l3-2.5l6,5.5l3-1V2L12,1z M3,10V6l2,2L3,10z M8,8l4-3v6L8,8z" />
+</ns0:g>
+</ns0:svg>

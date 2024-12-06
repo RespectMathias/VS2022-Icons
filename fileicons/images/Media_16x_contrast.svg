@@ -1,0 +1,16 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <ns0:defs>
+    <ns0:style>.canvas{fill: none; opacity: 0;}.light-defaultgrey{fill: #212121; opacity: 1;}.light-defaultgrey-10{fill: #212121; opacity: 0.1;}.light-green{fill: #1f801f; opacity: 1;}</ns0:style>
+  </ns0:defs>
+  <ns0:title>IconLightMedia</ns0:title>
+  <ns0:g id="canvas">
+    <ns0:path d="M16,0V16H0V0Z" style="fill:none;opacity:0;" />
+  </ns0:g>
+  <ns0:g id="level-1">
+    <ns0:path d="M3,6H2V5H3ZM3,4H2V3H3ZM3,8H2V7H3Zm0,2H2V9H3Zm0,2H2V11H3Z" style="fill:#212121;opacity:1;" />
+    <ns0:path d="M15.5,13.5H.5V1.5h15Z" style="fill:#212121;opacity:0.1;" />
+    <ns0:path d="M15.5,1H.5L0,1.5v12l.5.5h15l.5-.5V1.5ZM15,13H1V2H15Z" style="fill:#212121;opacity:1;" />
+    <ns0:path d="M14,6H13V5h1Zm0-2H13V3h1Zm0,4H13V7h1Zm0,2H13V9h1Zm0,2H13V11h1Z" style="fill:#212121;opacity:1;" />
+    <ns0:path d="M11,7.5l-5,3v-6Z" style="fill:#1f801f;opacity:1;" />
+  </ns0:g>
+</ns0:svg>

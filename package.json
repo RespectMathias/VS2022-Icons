@@ -1,0 +1,54 @@
+{
+  "name": "VS2022-Icons",
+  "version": "2.0.1",
+  "displayName": "VS2022 Icons",
+  "description": "Using modified icons from Visual Studio Image Library, adapted to match VS2022. The icons are compiled to dark, light, and high contrast themes.",
+  "publisher": "RespectMathias",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "VS2022-Icons",
+        "label": "VS2022 Icons",
+        "path": "fileicons/studio-icons.json"
+      }
+    ]
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization"
+  ],
+  "homepage": "https://github.com/RespectMathias/VS2022-Icons/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RespectMathias/VS2022-Icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RespectMathias/VS2022-Icons/issues"
+  },
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#e0e0e0",
+    "theme": "light"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "clean": "gulp clean",
+    "compile": "gulp",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "standard": "^17.1.0"
+  }
+}

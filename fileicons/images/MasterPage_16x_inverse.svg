@@ -1,0 +1,18 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <ns0:defs>
+    <ns0:style>.canvas{fill: none; opacity: 0;}.light-defaultgrey-10{fill: #FFFFFF; opacity: 0.1;}.light-defaultgrey{fill: #FFFFFF; opacity: 1;}.cls-1{opacity:0.75;}</ns0:style>
+  </ns0:defs>
+  <ns0:title>IconLightMasterPage</ns0:title>
+  <ns0:g id="canvas">
+    <ns0:path d="M16,16H0V0H16Z" style="fill:none;opacity:0;" />
+  </ns0:g>
+  <ns0:g id="level-1">
+    <ns0:g style="opacity:0.75;">
+      <ns0:path d="M14.5,5v8H1.5V5Z" style="fill:#FFFFFF;opacity:0.1;" />
+      <ns0:path d="M14.5,5H1.5L1,5.5v8l.5.5h13l.5-.5v-8ZM14,13H2V6H14Z" style="fill:#FFFFFF;opacity:1;" />
+    </ns0:g>
+    <ns0:path d="M14,3V5H2V3Z" style="fill:#FFFFFF;opacity:0.1;" />
+    <ns0:path d="M14.5,6H1.5L1,5.5v-3L1.5,2h13l.5.5v3ZM2,5H14V3H2Z" style="fill:#FFFFFF;opacity:1;" />
+    <ns0:path d="M4,6H5V7H4ZM4,9H5V8H4ZM6,9H7V8H6ZM8,9H9V8H8Zm2,0h1V8H10Zm2-1V9h1V8ZM2,9H3V8H2Zm2,2H5V10H4Zm0,2H5V12H4Z" style="fill:#FFFFFF;opacity:1;" />
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,17 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <ns0:defs>
+    <ns0:style>.canvas{fill: none; opacity: 0;}.light-defaultgrey{fill: #FFFFFF; opacity: 1;}.light-defaultgrey-10{fill: #FFFFFF; opacity: 0.1;}.cls-1{opacity:0.75;}</ns0:style>
+  </ns0:defs>
+  <ns0:title>IconLightXMLSchema</ns0:title>
+  <ns0:g id="canvas" style="fill:none;opacity:0;">
+    <ns0:path d="M16,16H0V0H16Z" style="fill:none;opacity:0;" />
+  </ns0:g>
+  <ns0:g id="level-1">
+    <ns0:g style="opacity:0.75;">
+      <ns0:path d="M12,8.5V11H11V9H4v2H3V8.5L3.5,8H7V6H8V8h3.5Z" style="fill:#FFFFFF;opacity:1;" />
+    </ns0:g>
+    <ns0:path d="M1.5,11.5h4v3h-4Zm8,0v3h4v-3Z" style="fill:#FFFFFF;opacity:0.1;" />
+    <ns0:path d="M5.5,11h-4l-.5.5v3l.5.5h4l.5-.5v-3ZM5,14H2V12H5Zm8.5-3h-4l-.5.5v3l.5.5h4l.5-.5v-3ZM13,14H10V12h3Z" style="fill:#FFFFFF;opacity:1;" />
+    <ns0:path d="M3.212,3.5,5.028,5.32l-.707.707L2.152,3.854V3.148L4.32.969l.709.705ZM10.661.97l-.7.709L11.787,3.5,9.956,5.322l.705.709,2.188-2.173V3.149Z" style="fill:#FFFFFF;opacity:1;" />
+  </ns0:g>
+</ns0:svg>
