@@ -1,6 +1,6 @@
 {
   "name": "VS2022-Icons",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "displayName": "VS2022 Icons",
   "description": "Using modified icons from Visual Studio Image Library, adapted to match VS2022. The icons are compiled to dark, light, and high contrast themes.",
   "publisher": "RespectMathias",
