@@ -606,7 +606,8 @@
     },
     {
       "iconPath": "WebFolder_16x.svg",
-      "folderNames": ["wwwroot"]
+      "folderNames": ["wwwroot"],
+      "folderNamesExpanded": ["wwwroot"]
     },
     {
       "iconPath": "github_16x.svg",
