@@ -1,10 +1,3 @@
-<!-- PROJECT LOGO -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RespectMathias/VS2022-Icons/refs/heads/main/images/logo.webp" alt="Logo" width="256" height="256">
-  <h3 align="center">VS2022 Icons</h3>
-  <p align="center">
-</div>
-
 Using modified icons from [Visual Studio Image Library](https://msdn.microsoft.com/en-us/library/ms246582.aspx), adapted to match VS2022. The icons are compiled to dark, light, and high contrast themes.
 
 ## Icon Sample
