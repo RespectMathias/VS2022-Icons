@@ -611,7 +611,8 @@
     },
     {
       "iconPath": "github_16x.svg",
-      "folderNames": [".github"]
+      "folderNames": [".github"],
+      "folderNamesExpanded": [".github"]
     },
     {
       "iconPath": "WebService_16x.svg",
