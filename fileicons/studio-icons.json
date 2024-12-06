@@ -1187,7 +1187,8 @@
     "folderNamesExpanded": {
       "properties": "PropertyOpen_16x.svg",
       "references": "Reference_16x.svg",
-      "rootFolder": "SpecialFolderOpen_16x.svg"
+      "rootFolder": "SpecialFolderOpen_16x.svg",
+      "wwwroot": "WebFolder_16x.svg"
     },
     "languageIds": {},
     "folder": "Folder_16x.svg",
@@ -1500,7 +1501,8 @@
     "folderNamesExpanded": {
       "properties": "PropertyOpen_16x_contrast.svg",
       "references": "Reference_16x_contrast.svg",
-      "rootFolder": "SpecialFolderOpen_16x_contrast.svg"
+      "rootFolder": "SpecialFolderOpen_16x_contrast.svg",
+      "wwwroot": "WebFolder_16x_contrast.svg"
     },
     "languageIds": {},
     "folder": "Folder_16x_contrast.svg",
@@ -1812,7 +1814,8 @@
   "folderNamesExpanded": {
     "properties": "PropertyOpen_16x_inverse.svg",
     "references": "Reference_16x_inverse.svg",
-    "rootFolder": "SpecialFolderOpen_16x_inverse.svg"
+    "rootFolder": "SpecialFolderOpen_16x_inverse.svg",
+    "wwwroot": "WebFolder_16x_inverse.svg"
   },
   "languageIds": {},
   "folder": "Folder_16x_inverse.svg",
